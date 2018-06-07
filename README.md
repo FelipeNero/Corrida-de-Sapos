@@ -34,7 +34,7 @@ c) O usuário da o start na corrida na linha 22 do arquivo scr/Corrida_Sapos.cpp
 
 Passo 5:
 
-a) Os sapos pulam individualmente na linha 341 da função iniciarCorrida(), no arquivo include/Funções.hpp 
+a) Os sapos pulam individualmente na linha 341 da função iniciar_Corrida(), no arquivo include/Funções.hpp 
 
 b) Quando o sapo chega ao final da corrida os outros deixam de pular e o vencedor é anunciado
 
